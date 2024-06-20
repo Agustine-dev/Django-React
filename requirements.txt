@@ -1,0 +1,4 @@
+pillow
+djangorestframework
+collections
+django-cors-headers
